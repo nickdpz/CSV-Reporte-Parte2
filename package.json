@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/nickdpz/CSV-Reporte-Parte2#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "csv-writer": "^1.6.0",
     "dotenv": "^8.2.0"
   }
